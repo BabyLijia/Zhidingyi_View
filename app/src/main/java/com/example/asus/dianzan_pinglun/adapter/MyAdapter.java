@@ -139,7 +139,7 @@ public class MyAdapter extends BaseAdapter {
 
                         if(holder.tv_dzRenShu.getText().toString().isEmpty()){
 
-                            
+
                         }
 
 
